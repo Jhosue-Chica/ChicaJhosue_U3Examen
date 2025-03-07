@@ -158,7 +158,7 @@ npm test
 
 ## Autor
 
-[Tu Nombre] - [Tu Email]
+Jhosue Chica - jichica@espe.edu.ec
 
 ## Licencia
 
